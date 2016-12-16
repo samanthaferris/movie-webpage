@@ -1,10 +1,15 @@
-.summary {
-    background: url("https://www.flickr.com/photos/playingwithpsp/4327839915/in/photostream/")";
-
+html {
+     background-image: url("https://www.flickr.com/photos/playingwithpsp/4327839915/in/photostream/");
 }
 
 #zombie {
     float: left;
 }
 
-#background {}
+#cowboy {
+    float: right;
+}
+
+#background {
+    
+}
