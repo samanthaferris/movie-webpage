@@ -2,8 +2,8 @@
 
 /*font-family: 'Rock Salt', cursive;*/
 /*font-family: 'Nothing You Could Do', cursive;*/
-h1,
-h3 {
+
+h1, h3 {
     text-align: center;
     line-height: 100%;
     font-family: 'Rock Salt', 'Nothing You Could Do', cursive;
@@ -38,5 +38,4 @@ h1{
 
 body {
     background-image: url("paper.png");
-    background-color: green;
 }
