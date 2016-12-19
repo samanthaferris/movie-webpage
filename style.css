@@ -10,6 +10,7 @@
     font-style: italic;
 }
 
-#background {
-    
+body {
+    background-image: url("paper.png");
+    background-color: green;
 }
