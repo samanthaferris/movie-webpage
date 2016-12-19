@@ -1,9 +1,10 @@
-html {
+.html {
      background-image: url("https://www.flickr.com/photos/playingwithpsp/4327839915/in/photostream/");
 }
 
 #zombie {
     float: left;
+    width: 10px;
 }
 
 #cowboy {
