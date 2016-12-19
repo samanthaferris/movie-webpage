@@ -1,21 +1,15 @@
-.html {
-     background-image: url("https://www.flickr.com/photos/playingwithpsp/4327839915/in/photostream/");
-}
-
 #zombie {
     float: left;
-    width: 10px;
 }
 
 #cowboy {
     float: right;
-    width: 10px;
+}
+
+#summary {
+    font-style: italic;
 }
 
 #background {
     
-}
-
-#ad {
-    position: fixed;
 }
