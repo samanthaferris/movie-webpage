@@ -62,7 +62,7 @@ body {
 .summary {
     background-color: beige;
     width: 2000px;
-    border: 0px yellow;
+    border: px black;
     padding: 50px;
     margin: 25px;
    
@@ -71,7 +71,7 @@ body {
 .reviews {
     background-color: orange;
     width: 2000px;
-    border: 0px yellow;
+    border: 5px black;
     padding: 50px;
     margin: 25px;
 }
